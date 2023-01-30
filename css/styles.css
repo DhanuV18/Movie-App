@@ -244,7 +244,7 @@ p{
     aspect-ratio: 16 / 25;
     object-fit: cover;
     object-position: center;
-    max-height: 400px;
+    max-height: 500px;
 }
 
 .card__header.card--image{
